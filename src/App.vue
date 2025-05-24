@@ -1,5 +1,11 @@
 <script setup lang="ts"></script>
 
-<template></template>
+<template>
+  <div class="main"></div>
+</template>
 
-<style scoped></style>
+<style scoped>
+.main{
+
+}
+</style>

@@ -7,4 +7,6 @@
 body {
   min-height: 100vh;
   font-family: 'Alegreya', serif;
+  background-color: var(--color-bg);
+  color: var(--color-main);
 }
